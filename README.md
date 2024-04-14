@@ -1,3 +1,6 @@
 # ingsoft
-repositorio para la primer actividad de la catedra ingenieria de software. UTN-FRLP
-Bifano ian
+## Actividad 0
+### Bifano Ian
+
+Complete los primeros 8 modulos del tutorial de *django*
+
